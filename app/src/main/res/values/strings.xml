@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Runner</string>
+    <string name="pass_forgot"><a href="https://github.com/Vishesh-panghal">Forgot Password</a></string>
+    <string name="register">"Don't Have an account?"<a href="https://www.instagram.com/panghal._.vishesh/">Sign Up now</a></string>
+    <string name="entre_your_mobile_number">Entre your Mobile Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="create_password">Create Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+</resources>
