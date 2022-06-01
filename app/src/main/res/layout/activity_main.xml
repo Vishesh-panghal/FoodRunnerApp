@@ -69,6 +69,7 @@
         android:layout_width="240sp"
         android:layout_height="20sp"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10sp"
         android:layout_centerHorizontal="true"
         android:text="@string/register"
         android:textColor="#fff"
